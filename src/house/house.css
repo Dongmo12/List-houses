@@ -1,0 +1,11 @@
+.price{
+    font-size: large;
+    color: coral;
+}
+
+#imgPrice{
+    display: flex;
+}
+#img{
+    padding-right: 30px;
+}

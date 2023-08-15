@@ -1,0 +1,31 @@
+ .logo{
+  height: 100px;
+  width: 100px;
+ }
+
+ .main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ }
+ .subtitle{
+  font-style: italic;
+  font-size: x-large;
+  color:coral;
+ }
+
+ .featureHouse{
+  border-radius: 2px;
+  background-color: rgb(255,190,166)
+ }
+
+ #featureHouse{
+    margin: 0 10%;
+ }
+
+ #filter {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+ }
